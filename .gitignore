@@ -1,0 +1,9 @@
+.micropico
+.vscode/
+.venv/
+venv/
+.ruff_cache/
+__pycache__/
+.pytest_cache/
+.coverage
+coverage.xml
